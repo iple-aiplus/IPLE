@@ -1,15 +1,15 @@
 # IPLE
  
-## Personal
+# Personal
 * **icon**   
 <img src="_image/icon.png" width="100"/><img src="_image/icon2.png" width="100"/> 
 
-## Repositories 
-### Personal
+# Repositories 
+## Personal
 * [Archive](https://github.com/iple-aiplus/Archive.git)
 * [Diary](https://github.com/iple-aiplus/Diary.git)
 
-### Study 
+## Study 
 <details>
 <summary>Book</summary>
 
@@ -32,7 +32,7 @@
 </details>
 
 
-### Project 
+## Project 
 <details>
 <summary>Personal</summary>
 
