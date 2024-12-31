@@ -1,5 +1,4 @@
 # IPLE
-* **icon**   
 <img src="_image/icon.png" width="100"/><img src="_image/icon2.png" width="100"/> 
 
 # Repositories 
@@ -11,7 +10,21 @@
 <details>
 <summary>Book</summary>
 
-* <a href="주소">컴퓨터 비전과 딥러닝-오일석</a>
+* AI 
+
+* Image Processing 
+
+* Computer Vision
+    * <a href="주소">『컴퓨터 비전과 딥러닝』 - 오일석</a>
+
+* Python 
+    * <a href="주소">『두근두근 파이썬』 - 천인국</a>
+* C++ 
+
+* IT 
+
+* ETC 
+
 
 </details>
 
